@@ -229,25 +229,25 @@
 #include<stdio.h>
 #include<conio.h>
 int main()
-{
-   int INR,inr;
-   float USD,usd;
-   // printf("Enter INR");
-   // scanf("%d",&INR);
+// {
+//    int INR,inr;
+//    float USD,usd;
+//    // printf("Enter INR");
+//    // scanf("%d",&INR);
 
-   // USD=INR/76.23;
-   // printf("USD  = %f\n",USD);
-
-
-   printf("Enter USD");
-   scanf("%d",&usd);
-
-  inr=(76.23*usd);
-   printf("%f",inr);
+//    // USD=INR/76.23;
+//    // printf("USD  = %f\n",USD);
 
 
-return 0 ;
-}
+//    printf("Enter USD");
+//    scanf("%d",&usd);
+
+//   inr=(76.23*usd);
+//    printf("%f",inr);
+
+
+// return 0 ;
+// }
 
 
 // 13. Write a program to take a three-digit number from the user and rotate its digits by
